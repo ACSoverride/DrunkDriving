@@ -2,7 +2,6 @@
 #include <cmath>
 #include <iomanip>
 using namespace std;
-//Author: Matthew Shapiro
 //Class : CSI 140-01
 // Assignment : Drunk Driving Calculator
 // Date Assigned : 9/18/22
